@@ -30,8 +30,8 @@ The project studies how random shocks, connectivity, and threshold-based failure
 | File | Description |
 |---|---|
 | `energy_cascade_simulation.py` | Python code for generating networks, simulating cascades, and plotting results |
-| `2023ch10882_manya_agrawal_individual proejct.tex` | LaTeX source file of the project report |
-| `2023ch10882_manya_agrawal_individual proejct.pdf` | Final compiled PDF report |
+| `proejct report.tex` | LaTeX source file of the project report |
+| `proejct report.pdf` | Final compiled PDF report |
 | `graph1_oil_scale_free_network.png` | Scale-free oil network graph |
 | `graph2_ev_random_network.png` | Random EV-mineral network graph |
 | `graph3_oil_avalanche_distribution.png` | Avalanche size distribution for oil network |
